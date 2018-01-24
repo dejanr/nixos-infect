@@ -241,4 +241,3 @@ makeConf
 makeSwap # smallest (512MB) droplet needs extra memory!
 infect
 removeSwap
-reboot
